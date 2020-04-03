@@ -1,6 +1,6 @@
 # OPERA: An Unsupervised Learning Approach toward Amazon Gift Card Misuse Detection
 
- In this paper, we propose OPERA— an unsupervised learning method to identify customers with suspicious behaviors when they purchase or claim GCs.
+ In this paper, we propose OPERA — an unsupervised learning method to identify customers with suspicious behaviors when they purchase or claim GCs.
 
 
 ## Running Environment
@@ -11,7 +11,7 @@ Python 3.7.3
 
 ## DateSet
 
-We evaluate **DMHP** on two kinds of datasets: Amazon Gift Card dataset and Wikipidia dataset.
+We evaluate **OPERA** on two kinds of datasets: Amazon Gift Card dataset and Wikipidia dataset.
 
 ## Model Evaluation
 
